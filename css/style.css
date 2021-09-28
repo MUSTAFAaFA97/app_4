@@ -29,7 +29,7 @@ p{
     color: rgb(138, 138, 138);
 }
 .logo{
-    background-image: url(/clipboard/images/bg-header-desktop.png);
+    background-image: url(../images/bg-header-desktop.png);
     background-repeat: no-repeat;
     
 }
